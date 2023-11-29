@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9x152GMi6Ezjh3jVaQ2oK3xZ6ioHRuU2qsLrUTP2FQw=",
+  "Hash": "rMajgU3wJPqrrpZwEq5xOBobCVxAjTTpnDb+kdBBVLo=",
   "Source": "Eventos",
   "BasePath": "_content/Eventos",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Usuario\\source\\repos\\Eventos\\Eventos\\wwwroot\\granrojo.png",
+      "SourceId": "Eventos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\Eventos\\Eventos\\wwwroot\\",
+      "BasePath": "_content/Eventos",
+      "RelativePath": "granrojo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\granrojo.png"
     },
     {
       "Identity": "C:\\Users\\Usuario\\source\\repos\\Eventos\\Eventos\\wwwroot\\js\\site.js",

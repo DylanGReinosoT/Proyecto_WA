@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\Eventos\\Eventos\\wwwroot\\granrojo.png",
+      "PackagePath": "staticwebassets\\granrojo.png"
+    },
+    {
       "Id": "C:\\Users\\Usuario\\source\\repos\\Eventos\\Eventos\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
